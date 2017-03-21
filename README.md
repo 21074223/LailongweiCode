@@ -33,3 +33,6 @@ LailongweiCode
 
 2.3版本的功能1 doing did
 
+V2.3版本的功能2
+
+
